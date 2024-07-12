@@ -1,0 +1,17 @@
+.hxpZlT {
+    background: #383241;
+    border-radius: var(--radii-card);
+    color: var(--colors-text);
+    overflow: hidden;
+    position: relative;
+    padding: 1px 1px 3px;
+    margin-bottom: 24px;
+    width: 420px;
+    height: 600px;
+}
+
+.cUJxXx {
+    overflow: inherit;
+    background: var(--colors-backgroundAlt);
+    border-radius: var(--radii-card);
+}
